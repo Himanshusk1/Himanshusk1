@@ -20,15 +20,7 @@ I am a **Full Stack Web Developer** 🌐, passionate about building scalable web
 
 <br/>
 
-### 🔨 Languages and Tools:
-<a href="https://www.javascript.com/" target="_blank"><img align="left" alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"></a>
-<a href="https://reactjs.org/" target="_blank"><img align="left" alt="React" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://www.mongodb.com" target="_blank"><img align="left" alt="MongoDB" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/mongodb/mongodb.svg"></a>
-<a href="https://www.docker.com" target="_blank"><img align="left" alt="Docker" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg"></a>
-<a href="https://www.figma.com/" target="_blank"><img align="left" alt="Figma" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg"></a>
 
-<br/>
 
 ### 📊 Github Stats
 <div align="center" style='display: flex; justify-content: space-evenly; align-items: center;'>
