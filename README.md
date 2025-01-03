@@ -48,9 +48,9 @@
 
 <br/>
 <div align="center" style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HIMANSHUSINGHKYARIYA&theme=dark&hide_border=false" height="140px" style="margin: 10px; border: 2px solid white;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HIMANSHUSINGHKYARIYA&theme=dark&hide_border=false" height="140px" style="margin: 10px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HIMANSHUSINGHKYARIYA&theme=dark&hide_border=false" height="140px" style="margin: 10px; border: 2px solid white;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Himanshusk1&theme=dark&hide_border=false" height="140px" style="margin: 10px; border: 2px solid white;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshusk1&theme=dark&hide_border=false" height="140px" style="margin: 10px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Himanshusk1&theme=dark&hide_border=false" height="140px" style="margin: 10px; border: 2px solid white;">
 </div>
 
 <br/>
