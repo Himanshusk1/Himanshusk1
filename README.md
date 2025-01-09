@@ -1,4 +1,4 @@
-## <div align="center">Hello👋, I'm <b>Himanshu Singh Kyariya </b></div>
+## <div align="center">Hello 👋, I'm <b>Himanshu Singh Kyariya </b></div>
 
 <div align="center">
     <a href='https://www.linkedin.com/in/himanshusinghkyariya'>
