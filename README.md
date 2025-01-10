@@ -1,4 +1,4 @@
-## <div align="center">Hello 👋, I'm <b>Himanshu Singh Kyariya </b></div>
+## <div align="center">Hello👋, I'm <b>Himanshu Singh Kyariya </b></div>
 
 <div align="center">
     <a href='https://www.linkedin.com/in/himanshusinghkyariya'>
@@ -12,6 +12,7 @@
     </a>
 </div>
 <br/>
+
 <div align="center">
     <p style="font-size: 1.2em; line-height: 1.5; text-align: center;">
         I am a <strong>Full Stack Web Developer</strong> 🌐, passionate about building scalable web applications and experimenting with new technologies. I wear different hats depending on the project, whether it's <strong>Full Stack Development</strong> 🖥️, <strong>mobile app creation</strong> 📱, or <strong>exploring Machine Learning</strong> 🤖. I’m always eager to learn new tech stacks 💻 and create amazing solutions 🛠️.
