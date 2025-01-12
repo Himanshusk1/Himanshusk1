@@ -108,7 +108,7 @@
         <img src="https://img.shields.io/badge/-Java-DE1D2D?logo=java&logoColor=white&style=flat">
     </div>
   <br/>
-    <div><b>🧰Tools and Platforms:</b>
+    <div><b>🧰Tools and Platforms:-</b>
       <br/>
         <img src="https://img.shields.io/badge/-VS%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp;
         <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">
