@@ -64,7 +64,7 @@
 -->
 <br>
 
-### <div align="center">_💻 Competitive Programming:_</div>
+### <div align="center">_💻  Competitive Programming:_</div>
 <div align="center">
     <a href="https://www.codechef.com/users/hiamanshusingh"><img src="https://img.shields.io/badge/CodeChef-%2364371b?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile"></a>
     <a href="https://www.hackerrank.com/profile/himanshusing8842" target="_blank"><img src="https://img.shields.io/badge/HackerRank-%231BA94C?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile"></a>
