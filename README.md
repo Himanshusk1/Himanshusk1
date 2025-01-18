@@ -55,13 +55,13 @@
 
 <br/>
 
-<!-- ### <div align="center">🛠️ My Projects</div>
+### <div align="center">🛠️ My Projects</div>
 <div align="center">
     <a href="https://your-project-link-1.com" target="_blank"><img alt="Project 1" src="./projects/project1.svg" height="68" style="margin: 10px;"></a>
     <a href="https://your-project-link-2.com" target="_blank"><img alt="Project 2" src="./projects/project2.svg" height="68" style="margin: 10px;"></a>
     <a href="https://github.com/himanshusinghkyariya/Project-Repo" target="_blank"><img alt="Project 3" src="./projects/project3.svg" height="68" style="margin: 10px;"></a>
 </div>
--->
+
 <br>
 
 ### <div align="center">_💻  Competitive Programming:_</div>
