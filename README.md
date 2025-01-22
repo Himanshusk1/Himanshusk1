@@ -37,14 +37,12 @@
     <li>💬 Feel free to ask me anything tech-related!</li>
     <li>📫 Reach out to me on <a href="https://www.linkedin.com/in/himanshusinghkyariya" target="_blank">LinkedIn</a>.</li>
 </ul>
-
-
 </ul>
 
 
 
 
-<br/><br/><br/>
+<br/><br/>
 <br/><br/><br/>
 
 ### <div align="center">📊 Github Stats</div>
