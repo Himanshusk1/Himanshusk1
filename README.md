@@ -95,8 +95,7 @@
       <img src="https://img.shields.io/badge/-CodeIgniter-E44332?logo=CodeIgniter&logoColor=white&style=flat">&nbsp;
       <img src="https://img.shields.io/badge/-WordPress-21759B?logo=WordPress&logoColor=white&style=flat">&nbsp;
       <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=Laravel&logoColor=white&style=flat">
-  </div>
-
+    </div>
   <br/>
     <div><b>💻Languages:</b>
       <br/>
